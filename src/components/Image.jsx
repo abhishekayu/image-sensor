@@ -1,4 +1,4 @@
-import { Card, makeStyles } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core';
 
 const useStyles = makeStyles({
     image: {
@@ -14,9 +14,7 @@ const useStyles = makeStyles({
 const Image = ({ image }) => {
     const classes = useStyles();
     return (
-        <Card className="card">
             <img className={classes.image} src={image.largeImageURL} alt={image.user} />
-        </Card>
     )
 }
 
