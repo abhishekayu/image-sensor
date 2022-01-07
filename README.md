@@ -11,8 +11,7 @@ CSS
 ```
 React JS
 ```
-
-<img src="" alt="Demo GIF" title="Universe-Lab" width="400"/>
+Click [here](https://cocky-ramanujan-861ce6.netlify.app/) to go Live with Image-Sensor. 
 
 ### Languages and Tools:
 
