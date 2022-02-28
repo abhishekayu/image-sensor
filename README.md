@@ -7,7 +7,7 @@ Click [here](https://cocky-ramanujan-861ce6.netlify.app/) to go Live with Image-
 
 ## Scripts
 
-# In the project directory, you can run:
+In the project directory, you can run:
 
 ### `npm i`
 
