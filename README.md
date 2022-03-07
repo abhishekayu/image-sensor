@@ -1,6 +1,8 @@
 # image-sensor
 This website is contain free stock photography media website. It is used for sharing photos, illustrations, vector graphics, film footage, and music, exclusively under his API license, which generally allows the free use of the material with some restrictions.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdarkcoder%2Fimage-sensor&count_bg=%23151C10&title_bg=%23495F3A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![github](https://user-images.githubusercontent.com/64314222/93706374-380d5580-fb43-11ea-8a99-3a6827940e64.gif)
 
 Click [here](https://cocky-ramanujan-861ce6.netlify.app/) to go Live with Image-Sensor demo.
